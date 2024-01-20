@@ -1,4 +1,4 @@
 # Ashmit-Demo
 This is my first git reoository.
 <br>
-Author - Ashmit Goyal
+Author - Ashmit Goyal(chitkara university)
